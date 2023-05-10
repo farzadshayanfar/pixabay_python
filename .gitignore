@@ -1,0 +1,7 @@
+/venv/
+.idea
+pyproject.toml
+MANIFEST.in
+__pycache__/
+/dist/
+/pixabay_python.egg-info/
